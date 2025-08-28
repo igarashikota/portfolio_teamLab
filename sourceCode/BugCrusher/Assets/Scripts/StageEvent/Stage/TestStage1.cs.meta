@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c471638a20d92384884beb7e9feaed50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_enemyLifeController: {instanceID: 0}
+  - m_palameterController: {fileID: 11400000, guid: 24f841859a678124c90caf13f9934fd2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

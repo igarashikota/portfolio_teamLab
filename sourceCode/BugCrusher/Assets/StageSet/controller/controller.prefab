@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1982416152172859913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3820839167899579134}
+  - component: {fileID: 7969064600503225190}
+  - component: {fileID: 5280782712655573349}
+  m_Layer: 0
+  m_Name: controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3820839167899579134
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1982416152172859913}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7969064600503225190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1982416152172859913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b0e9d7a4f0d4c84bbd36cf6a2661b37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cubePrefab: {fileID: 4572178690586800345, guid: 47a6dac7a5827b2409a7f7d4a818acc0, type: 3}
+  mothPrefab: {fileID: 4972107098033211270, guid: db223437c3eb08e4ab41e22f65ff7226, type: 3}
+  m_stage: {fileID: 0}
+  m_palameterController: {fileID: 11400000, guid: 24f841859a678124c90caf13f9934fd2, type: 2}
+--- !u!114 &5280782712655573349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1982416152172859913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0aad9e3c0983c1041836a9f67fa4b49d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_palametorController: {fileID: 11400000, guid: 24f841859a678124c90caf13f9934fd2, type: 2}
+  m_ClearCanvas: {fileID: 2511139956140979156, guid: 8f0fc64b44c47834ab23309613907335, type: 3}
+  m_ShopCanvas: {fileID: 1249744943670471775, guid: 68a80a6905f70fd41b13069011de417b, type: 3}
+  m_GameoverCanvas: {fileID: 6824841719261800105, guid: 9dc2b07a8f5ad6b4fb504e7aa1396ec8, type: 3}
+  m_timeOverCanvas: {fileID: 278192934750185162, guid: 7e8be5ebf87016c47b2f54b764ae123c, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9b0e9d7a4f0d4c84bbd36cf6a2661b37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubePrefab: {fileID: 4572178690586800345, guid: 47a6dac7a5827b2409a7f7d4a818acc0, type: 3}
+  - mothPrefab: {fileID: 4972107098033211270, guid: db223437c3eb08e4ab41e22f65ff7226, type: 3}
+  - m_palameterController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

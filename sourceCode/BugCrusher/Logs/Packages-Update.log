@@ -1,0 +1,14 @@
+
+=== Thu May 15 17:38:58 2025
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 更新済み:
+  com.unity.ai.navigation をバージョン 2.0.6 から 2.0.7 へ
+  com.unity.collab-proxy をバージョン 2.7.1 から 2.8.1 へ
+  com.unity.ide.rider をバージョン 3.0.31 から 3.0.36 へ
+  com.unity.ide.visualstudio をバージョン 2.0.22 から 2.0.23 へ
+  com.unity.inputsystem をバージョン 1.13.1 から 1.14.0 へ
+  com.unity.test-framework をバージョン 1.4.6 から 1.5.1 へ
+  com.unity.visualscripting をバージョン 1.9.5 から 1.9.6 へ

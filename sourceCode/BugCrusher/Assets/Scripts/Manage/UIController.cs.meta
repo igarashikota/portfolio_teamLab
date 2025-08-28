@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6738d6704aa4d9e4ba4eef4a20dcad50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Console: {instanceID: 0}
+  - m_PalameterController: {fileID: 11400000, guid: 24f841859a678124c90caf13f9934fd2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

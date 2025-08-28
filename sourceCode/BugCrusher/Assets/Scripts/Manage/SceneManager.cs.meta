@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0aad9e3c0983c1041836a9f67fa4b49d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_palametorController: {fileID: 11400000, guid: 24f841859a678124c90caf13f9934fd2, type: 2}
+  - m_ClearCanvas: {fileID: 2511139956140979156, guid: 8f0fc64b44c47834ab23309613907335, type: 3}
+  - m_ShopCanvas: {fileID: 1249744943670471775, guid: 68a80a6905f70fd41b13069011de417b, type: 3}
+  - m_GameoverCanvas: {fileID: 6824841719261800105, guid: 9dc2b07a8f5ad6b4fb504e7aa1396ec8, type: 3}
+  - m_timeOverCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

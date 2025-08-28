@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54f449e38e5ce7849b46a415412dd0b6, type: 3}
+  m_Name: PalameterController
+  m_EditorClassIdentifier: 
+  StartUpStageEventBase: {fileID: 3291813355501466626, guid: b1d06b4489d96a141a6ca2f877890c3a, type: 3}
+  m_stageEventBaseList:
+  - {fileID: 3291813355501466626, guid: b1d06b4489d96a141a6ca2f877890c3a, type: 3}
+  - {fileID: 4839137639160550423, guid: 26125f8869032f94bad1b53ef4ad2470, type: 3}
+  - {fileID: 3858135496699687431, guid: c98f7c938ae4ce64c9b2ad0026bd3914, type: 3}
+  - {fileID: -111421293687377037, guid: 18099d555557d2c4a8269d10ad98d103, type: 3}
+  - {fileID: 2260304654738542641, guid: 152de9d17b004fb4bb39b7cd307747c9, type: 3}
